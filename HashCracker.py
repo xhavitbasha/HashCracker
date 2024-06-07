@@ -14,7 +14,7 @@ def typing_print(text):
         time.sleep(0.1)
 
 # ASCI Effect
-text = pyfiglet.print_figlet(text='passcracker',
+text = pyfiglet.print_figlet(text='hashcracker',
                               colors='BLUE')
 
 
